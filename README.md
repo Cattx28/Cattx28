@@ -16,13 +16,18 @@
 
 <h3 align=>🌱 Atualmente estou aprendendo Node, React, Python e Linux.</h3>
 
+<hr>
+
 ###
    
   <h3>📊 GitHub Stats:</h3>
 <div align>
-  <img src="https://streak-stats.demolab.com?user=Cattx28&locale=en&mode=daily&theme=violet-dark&hide_border=true&border_radius=5&order=3" height="350" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cattx28&radius=16&theme=dracula&area=true&order=5&hide_border=true&" height="180" alt="activity-graph graph"  />
+   <img src="https://streak-stats.demolab.com?user=Cattx28&locale=en&mode=daily&theme=violet-dark&border_radius=5&order=3" height="165" alt="streak graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cattx28&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cattx28&radius=16&theme=dracula&area=true&order=5&hide_border=true&" height="270" alt="activity-graph graph"  />
 </div>
+
+<hr>
 
 ###
 
@@ -37,6 +42,8 @@
   <img align="center" alt="Catt-Flutter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Catt-Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 </div>
+
+<hr>
   
   ###
 
