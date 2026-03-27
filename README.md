@@ -1,7 +1,7 @@
 ## Olaá! Eu sou a Catarine Tenório 😊
  <div align>
   <a href="https://github.com/Cattx28">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&weight=300&size=40&duration=3000&pause=500&color=E400FF&width=435&lines=Full+Stack+Developer;Desktop+Developer;WEB+Developer;Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&weight=300&size=30&duration=3000&pause=500&color=E400FF&width=435&lines=Full+Stack+Developer;Desktop+Developer;WEB+Developer;Mobile+Developer" alt="Typing SVG" />
 </div> 
 
 ###
